@@ -1,6 +1,5 @@
 #loading dataset 
-setwd("F:\\vit\\YEAR 3\\SEM 5\\DATA 
-ANAL\\lab\\DATASET") 
+setwd("C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\Real-Time-Sleep-Monitoring-to-Prevent-Sleeping-Disorders") 
 data=read.csv("Sleep_health_and_lifestyle_dataset.csv") 
 n=nrow(data) 
 n 
